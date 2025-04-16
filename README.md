@@ -10,7 +10,8 @@ To reduce irrelevant training content and identify learning gaps based on actual
 
 ## Status
 
-MVP is functional. Styling and learning content are in progress.
+MVP is functional but currently experiencing performance issues (freezing, blocking the bookmark bar). Debugging in progress.
+Styling and learning content are in progress.
 
 ## Ethical Note
 
