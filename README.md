@@ -1,4 +1,4 @@
-# xAPI-URL-Catcher
+# API-URL-Catcher
 Prototype Chrome extension using xAPI to capture URL activity patterns for learning insights.
 
 I'm building this Chrome extension to explore how xAPI can capture browsing patterns for learning design purposes.  
